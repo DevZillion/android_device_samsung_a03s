@@ -8,7 +8,5 @@
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/twrp_a03s.mk
 
-COMMON_LUNCH_CHOICES := \
-    omni_a03s-user \
-    omni_a03s-userdebug \
-    omni_a03s-eng
+
+COMMON_LUNCH_CHOICES := twrp_a03s-eng
