@@ -19,7 +19,7 @@ $(call inherit-product, vendor/omni/config/gsm.mk)
 
 # Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := a03s
-PRODUCT_NAME := omni_a03s
+PRODUCT_NAME := twrp_a03s
 PRODUCT_BRAND := samsung
 PRODUCT_MODEL := SM-A037F
 PRODUCT_MANUFACTURER := samsung
